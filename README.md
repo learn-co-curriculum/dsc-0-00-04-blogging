@@ -14,7 +14,7 @@ There are seven blog posts that we'll ask you to complete. That is a graduation 
 
 Here are the seven required blog topics:
 1. Why did you decide to learn data science?
-2. Write a post on a visualization technique of your choice (line plot, histogram, heat-map, etc). How is it being used to answer analytical problems and what are it’s strengths and weaknesses?
+2. Write a post on a visualization technique of your choice (line plot, histogram, heat-map, etc). How is it being used to answer analytical problems and what are its strengths and weaknesses?
 3. Write about a topic you are finding particularly challenging. Do it in the form of a tutorial to help another aspiring data scientist to learn that topic.
 4. Write a tutorial (with a data set and code sample) on something that we did not cover during the course that you think might be interesting to other people taking the course. It can be a topic we didn’t cover at all, or can just go deeper into a topic that we did cover.
 5. Write about your experience with model selection, model validation and hyper-parameter tuning for a data set you’ve worked with on the program. Include hints and tips that would help another data science student do a better job of model selection, validation and tuning.
